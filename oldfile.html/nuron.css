@@ -1,0 +1,327 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+body{
+background-color: #13131d;
+color: white;
+background-size: 1000px;
+font-family: poppins;
+
+}
+
+nav{
+ background-color: transparent;   
+display: flex;
+gap: 40px;
+height: 100px;
+align-items: center;
+padding: 10px -15px;
+position: relative;
+z-index: 3;
+justify-content: center;
+font-size: 18px;
+font-weight: 300;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+nav ul{
+    display: flex;
+    gap: 30px;
+
+
+}
+
+nav ul li{
+    text-decoration: none;
+    list-style: none;
+}
+
+nav ul li a{
+text-decoration: none;
+color: rgb(218, 206, 206);
+
+}
+
+nav .logo{
+
+    margin-right: 20px;
+    font-size: 25px;
+    color: beige;
+}
+
+nav  form input{
+/* border-radius: 100px; */
+padding: 10px 10px;
+margin: 5px 10px;
+background-color: transparent;
+font-size:15px ;
+color: white;
+}
+
+nav form button{
+
+    /* border-radius: 100px; */
+padding: 10px 10px;
+margin: 5px 10px;
+background-color: rgb(39, 39, 219);
+font-size:15px ;
+color: white;
+cursor: pointer;
+}
+
+nav  button :hover{
+color: aquamarine;
+}
+
+.nft{
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-top: 20px;
+
+}
+
+.nft .nft1 h1{
+font-size: 50px;
+/* padding: 10px; */
+font-weight: 500;
+/* margin-right: 1px; */
+
+
+}
+
+.nft1 p{
+font-size:20px ;
+padding: 10px;
+font-weight: 300;
+
+}
+
+.nft1 button{
+
+    border-radius: 5px;
+    padding: 15px 30px;
+    margin-top: 15px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+/* .nft .nft1 button :hover{
+    background-color: aqua;
+} */
+
+.nft .main-page{
+max-width: 100%;
+min-height: 100px;
+
+}
+
+.nft .main-page img{
+    width: 400px;
+    height: 450px;
+    margin-left: 20px;
+    vertical-align: middle;
+    border: 0;
+}
+
+.main-page2{
+display: flex;
+justify-content: center;
+align-items:center ;
+margin-left: 100px;
+margin-top: 50px;
+margin-right: 25px;
+padding: 10px;
+gap: 35px;
+
+}
+
+.main-page2 .img1{
+max-width: 100%;
+min-height: 100%;
+
+}
+
+.main-page2 .img1 img{
+width: 300px;
+height: 300px;
+
+}
+.main-page2 p{
+    font-size: 20px;
+    color: rgb(45, 45, 241);
+}
+
+.main-page2 pre{
+    font-size: 20px;
+}
+.main-page2 h3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.main-page2 .img1 div{
+    display: flex;
+    max-width: 100%;
+    min-height: 100%;
+
+}
+
+.main-page2 .img1 div img{
+width: 25px;
+height: 30px;
+border-radius: 15px;
+
+}
+
+
+
+
+
+.main-page2 .img2{
+    max-width: 100%;
+    min-height: 100%;
+    
+    }
+    
+    .main-page2 .img2 img{
+    width: 300px;
+    height: 300px;
+    
+    }
+
+    .main-page2 .img2 div{
+        display: flex;
+        max-width: 100%;
+        min-height: 100%;
+    
+    }
+    
+    .main-page2 .img2 div img{
+    width: 25px;
+    height: 30px;
+    border-radius: 15px;
+    
+    }
+    
+
+
+    
+.main-page2 .img3{
+    max-width: 100%;
+    min-height: 100%;
+    
+    }
+    
+    .main-page2 .img3 img{
+    width: 300px;
+    height: 300px;
+    
+    }
+    
+    .main-page2 .img3 div{
+        display: flex;
+        max-width: 100%;
+        min-height: 100%;
+    
+    }
+    
+    .main-page2 .img3 div img{
+    width: 25px;
+    height: 30px;
+    border-radius: 15px;
+    
+    }
+    
+    
+.main-page2 .img4{
+    max-width: 100%;
+    min-height: 100%;
+    
+    }
+    
+    .main-page2 .img4 img{
+    width: 300px;
+    height: 300px;
+    
+    }
+    
+    .main-page2 .img4 div{
+        display: flex;
+        max-width: 100%;
+        min-height: 100%;
+    
+    }
+    
+    .main-page2 .img4 div img{
+    width: 25px;
+    height: 30px;
+    border-radius: 15px;
+    
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
